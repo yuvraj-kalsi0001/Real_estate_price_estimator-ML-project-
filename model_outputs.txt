@@ -5,3 +5,8 @@ Standard Deviation:  1.1117746440446232
 Linear regression
 Mean:  5.030437102767306
 Standard Deviation:  1.0607661158294837
+
+
+Random froest regressor
+Mean:  3.3113242795256825
+Standard Deviation:  0.7816300483803268
